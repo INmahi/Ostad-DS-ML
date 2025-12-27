@@ -3,8 +3,6 @@
 *** Courseworks ***
 ### Modules
 
-- **Module 1 & 2:** Python basics and assignments.
-- **Module 4 SQL:** SQL scripts and assignments for database practice.
-- **Module 5 Numpy:** Numpy basics and exercises in Jupyter notebooks.
-- **Module 8 Advanced Data Visualization:** Data visualization assignments and materials using pandas, matplotlib, and seaborn.
+This repository contains my major courseworks including Assignments, Projects, and Labs from the OSTAD Data Science and Machine Learning 47 program. Each module is organized into separate folders for easy navigation.
 
+[Course Link](https://ostad.app/course/data-science-with-python)
